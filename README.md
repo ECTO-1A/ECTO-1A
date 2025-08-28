@@ -13,4 +13,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ECTO-1A&repo=AppleJuice&theme=algolia)](https://github.com/ECTO-1A/AppleJuice)
 
-[![WiGLE] (https://wigle.net/bi/BtnKJg+NwHX1X7ji_Z3hZw.png")]
+[![WiGLE] (https://wigle.net/bi/BtnKJg+NwHX1X7ji_Z3hZw.png)]
