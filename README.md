@@ -9,7 +9,78 @@
 
 ---
 
-## Most popular repos:
+### Most Popular Repos
 
 [![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ECTO-1A&repo=AppleJuice&theme=algolia)](https://github.com/ECTO-1A/AppleJuice)
+---
+### Skills
 
+
+<h3>
+  <p>
+  <b> Full Stack</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=python,c,html,css,js,streamlit,gradio,flask,postgres,mysql,redis,fastapi&titles=true"
+    />
+  </a>
+</h3>
+
+<h3>
+  <p>
+  <b>LLM, GenAI & AI Agents</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=langchain,crewai,n8n,mcp,ollama&titles=true"
+    />
+  </a>
+</h3>
+
+<h3>
+  <p>
+  <b>LLM & ML Evaluation Frameworks</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=langchain,mlflow,confidentai,arize&titles=true"
+    />
+  </a>
+
+<h3>
+  <p>
+  <b>ML,DS&DL</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv&titles=true"
+    />
+  </a>
+</h3>
+
+
+</h3>
+
+<h3>
+  <p>
+  <b>Cloud & Deployment</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=azure,linux,bash,docker,vercel,huggingface&titles=true"
+    />
+  </a>
+</h3>
+
+
+<h3>
+  <p>
+  <b>IDE & Version Control</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,bitbucket,git,github,gitlab&titles=true"
+    />
+  </a>
+</h3>
