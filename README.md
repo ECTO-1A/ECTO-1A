@@ -7,16 +7,19 @@
 
 ---
 [![WiGLE](https://wigle.net/bi/BtnKJg+NwHX1X7ji_Z3hZw.png)](https://wigle.net)
+
 ---
 
 ### Most Popular Repos
 
 [![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ECTO-1A&repo=AppleJuice&theme=algolia)](https://github.com/ECTO-1A/AppleJuice)
-[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ECTO-1A&repo=MaruadersMapAI&theme=algolia)](https://github.com/ECTO-1A/MaruadersMapAI)
-[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ECTO-1A&repo=usbrubberducky-payloads&theme=algolia)](https://github.com/ECTO-1A/usbrubberducky-payloads)
 
 ---
-### Skills
+[![ReadMe Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=ECTO-1A&repo=MaruadersMapAI&theme=algolia)](https://github.com/ECTO-1A/MaruadersMapAI)
+
+---
+---
+## Skills
 
 
 <h3>
